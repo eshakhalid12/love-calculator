@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(197, 90, 108);
+}
+
+.first{
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.para{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+#input1{
+    height: 30px;
+    width: 200px;
+}
+
+#input2{
+    height: 30px;
+    width: 200px;
+}
+
+#calculate{
+    width: 100px;
+    height: 40px;
+    border-radius: 15px; 
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+#calculate:hover{
+    background-color: red;
+    color: white;
+}
+
+#heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
